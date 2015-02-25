@@ -1,12 +1,12 @@
 {
   "name": "rmscripts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Removes all script tags from passed stdin.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin":{
+  "bin": {
     "rmscripts": "./index.js"
   },
   "author": "Thomas Reggi",
